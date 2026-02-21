@@ -35,4 +35,4 @@ Interactive business intelligence dashboard built using **MySQL + Power BI** to 
 
 ## 📷 Preview
 
-
+![Dashboard](dashboard_overviews.png)
